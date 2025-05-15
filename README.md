@@ -17,6 +17,6 @@ A parody website making fun of the idea that “real men” don’t vote. Inspir
 
 ## 🔔 Disclaimer
 
-This is satire. Please vote. Visit [https://vote.org](https://vote.org) to register and find voting info.
+This is satire. Please vote. Visit [https://voteamerica.org](https://voteamerica.org) to register and find voting info.
 
 💙
