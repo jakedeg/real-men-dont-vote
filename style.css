@@ -1,0 +1,61 @@
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+  background-color: #1a1a1a;
+  color: #f0f0f0;
+  line-height: 1.6;
+  text-align: center;
+}
+
+a {
+  color: #ffa500;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+header.hero {
+  padding: 4rem 1rem;
+  background-color: #222;
+  background-image: url('https://www.transparenttextures.com/patterns/black-linen.png');
+}
+
+.hero h1 {
+  font-size: 3rem;
+  margin-bottom: 0.5rem;
+}
+
+section {
+  padding: 2rem 1rem;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.man-rules ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.man-rules li {
+  margin: 1rem 0;
+  font-size: 1.2rem;
+}
+
+.testimonials .quote {
+  margin: 2rem 0;
+  font-style: italic;
+  color: #ccc;
+}
+
+.cta {
+  background-color: #990000;
+  color: #fff;
+  padding: 3rem 1rem;
+  font-size: 1.5rem;
+}
+
+footer {
+  background-color: #111;
+  padding: 2rem 1rem;
+  font-size: 0.9rem;
+  color: #888;
+}
